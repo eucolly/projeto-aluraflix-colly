@@ -5,3 +5,9 @@ body {
     font-family: "Playfair Display",sans-serif;
     margin:100px 
 }
+header{
+    border-bottom:solid 2xp rgb(39, 168, 140);
+    padding:25px;
+    font-size: 32px;
+    color:rgb(206, 6, 6)
+}
